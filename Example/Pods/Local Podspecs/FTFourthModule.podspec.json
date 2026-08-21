@@ -1,0 +1,22 @@
+{
+  "name": "FTFourthModule",
+  "version": "0.1.0",
+  "summary": "A short description of FTFourthModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/daxiongxiongda/FTFourthModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daxiongxiongda": "xiongkunpeng@gome.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/daxiongxiongda/FTFourthModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FTFourthModule/Classes/**/*"
+}
