@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTFourthModule_Tests' do
+  pod 'FTFourthModule', :path => '../'
+  
+  
+end
